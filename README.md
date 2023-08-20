@@ -20,9 +20,11 @@ Install dependencies
 ```
 pip install Pillow mediapipe
 ```
+Clone Repository
 ```
 git clone https://github.com/NotNeelPatel/face-blurrer && cd face-blurrer
 ```
+Run face_blurrer
 ```
 python3 face_blurrer.py /path/to/image
 ```
